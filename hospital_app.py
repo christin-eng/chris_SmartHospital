@@ -105,7 +105,7 @@ with st.form("triage_form"):
 
     # Section 1 — Symptoms
     st.markdown("""
-    <div style="background:#f0f9ff;border:1px solid #bae6fd;border-radius:14px;
+    <div style="background:#F27C63;border:1px solid #bae6fd;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
             <span style="background:#0284c7;color:white;border-radius:8px;
@@ -138,7 +138,7 @@ with st.form("triage_form"):
 
     # Section 2 — Duration & Complaint
     st.markdown("""
-    <div style="background:#fdf4ff;border:1px solid #e9d5ff;border-radius:14px;
+    <div style="background:#C3D1F7;border:1px solid #e9d5ff;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;">
             <span style="background:#7c3aed;color:white;border-radius:8px;
@@ -158,7 +158,7 @@ with st.form("triage_form"):
 
     # Section 3 — Severity
     st.markdown("""
-    <div style="background:#fff7ed;border:1px solid #fed7aa;border-radius:14px;
+    <div style="background:#D4FCDD;border:1px solid #fed7aa;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;">
             <span style="background:#ea580c;color:white;border-radius:8px;
@@ -178,7 +178,7 @@ with st.form("triage_form"):
 
     # Section 4 — Medical History
     st.markdown("""
-    <div style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:14px;
+    <div style="background:#FFD894;border:1px solid #bbf7d0;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
             <span style="background:#059669;color:white;border-radius:8px;
